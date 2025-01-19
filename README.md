@@ -2,7 +2,7 @@ About me 👀
 
 {
 "name": "Nomade"
-"age": "17"
+"age": "18"
 "work": "Student"
 "studies": "High School"
 }
